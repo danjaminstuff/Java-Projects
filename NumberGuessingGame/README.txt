@@ -1,0 +1,1 @@
+The project "NumberGuessingGame" was started and finished on May 5, 2026 by me.
